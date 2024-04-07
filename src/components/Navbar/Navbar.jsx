@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import { IconBell, IconBrandPaypal, IconMenu2, IconSettings, IconX } from '@tabler/icons';
+import { IconBell, IconMenu2, IconSettings, IconX } from '@tabler/icons';
 import paypalLogo from '../../images/paypal-icon.png';
 
 const Navbar = () => {

@@ -2,7 +2,6 @@ import React from "react";
 import ListItem from "../components/page-components/ListItem";
 import { FaBell, FaFileInvoice, FaPaypal, FaTruck } from "react-icons/fa";
 import { IoIosLaptop } from "react-icons/io";
-import OptionItem from "../components/page-components/OptionItems";
 import Header from "../components/page-components/Header";
 
 const Page = () => {

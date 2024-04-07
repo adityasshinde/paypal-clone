@@ -1,5 +1,5 @@
 import React from "react";
-import { IconBrandFacebook, IconBrandTwitter, IconQrcode, IconCircleCheck } from '@tabler/icons';
+import { IconCircleCheck } from '@tabler/icons';
 import { FaFacebook, FaTwitter } from "react-icons/fa";
 import { MdOutlineQrCode2 } from "react-icons/md";
 import Button from "../components/ui/Button";

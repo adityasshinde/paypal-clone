@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bd0cc2ee.css",
+    "main.js": "/static/js/main.fca71043.js",
+    "static/js/453.2c2e0d55.chunk.js": "/static/js/453.2c2e0d55.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/paypal.svg": "/static/media/paypal.f2e0b8e9b76e6b16cf59e01a2fdfb1a5.svg",
+    "index.html": "/index.html",
+    "main.bd0cc2ee.css.map": "/static/css/main.bd0cc2ee.css.map",
+    "main.fca71043.js.map": "/static/js/main.fca71043.js.map",
+    "453.2c2e0d55.chunk.js.map": "/static/js/453.2c2e0d55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd0cc2ee.css",
+    "static/js/main.fca71043.js"
+  ]
+}
